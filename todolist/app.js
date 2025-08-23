@@ -38,7 +38,6 @@ function addCloseButtons() {
         }
     });
 }
-
 // sayfa yüklenince butonları ekle
 addCloseButtons();
 
